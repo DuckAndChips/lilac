@@ -1,0 +1,36 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Migra";
+    src: url("./../assets/fonts/Migra-Extralight.woff2"),
+        url("./../assets/fonts/Migra-Extralight.woff1");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Migra";
+    src: url("./../assets/fonts/Migra-Extrabold.woff2"),
+        url("./../assets/fonts/Migra-Extrabold.woff");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Migra";
+    src: url("./../assets/fonts/migraitalic-extralightitalic-webfont.woff2"),
+        url("./../assets/fonts/migraitalic-extralightitalic-webfont.woff");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Migra";
+    src: url("./../assets/fonts/migraitalic-extrabolditalic-webfont.woff2"),
+        url("./../assets/fonts/migraitalic-extrabolditalic-webfont.woff");
+    font-weight: bold;
+    font-style: italic;
+} ;
