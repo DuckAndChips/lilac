@@ -5,6 +5,7 @@ import { useState, useCallback } from "react";
 import { Link, Outlet, useNavigate } from "react-router-dom";
 import { AuthModal } from "../components/AuthModal";
 import { auth } from "../services/Auth";
+import screenshotURL from "../../assets/img/screenshot.png";
 
 export function LandingPage({}) {
   const navigate = useNavigate();
@@ -71,7 +72,7 @@ export function LandingPage({}) {
 
             {/* Screenshot */}
             <img
-              src="../assets/img/screenshot.png"
+              src={screenshotURL}
               alt="Screenshot"
               className="w-[70vw] max-w-sm border-2 border-black shadow-offset-black md:w-[40vw] md:max-w-xl md:-translate-y-40"
             />
