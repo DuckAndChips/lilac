@@ -5,16 +5,16 @@
 
 @font-face {
     font-family: "Migra";
-    src: url("./../assets/fonts/Migra-Extralight.woff2"),
-        url("./../assets/fonts/Migra-Extralight.woff1");
+    src: url("./../assets/fonts/Migra-Extralight-webfont.woff2"),
+        url("./../assets/fonts/Migra-Extralight-webfont.woff");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Migra";
-    src: url("./../assets/fonts/Migra-Extrabold.woff2"),
-        url("./../assets/fonts/Migra-Extrabold.woff");
+    src: url("./../assets/fonts/Migra-Extrabold-webfont.woff2"),
+        url("./../assets/fonts/Migra-Extrabold-webfont.woff");
     font-weight: bold;
     font-style: normal;
 }

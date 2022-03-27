@@ -19,6 +19,9 @@ module.exports = {
             },
             boxShadow: {
                 'offset-black': '8px 8px black'
+            },
+            animation: {
+              'spin-slow': 'spin 5s linear infinite',
             }
         },
     },
