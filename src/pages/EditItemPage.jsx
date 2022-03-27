@@ -52,7 +52,10 @@ export function EditItemPage() {
           <div className="flex flex-col items-end">
             <a
               className="cursor-pointer font-bold text-plum hover:text-black"
-              onClick={logOut}
+              onClick={() => {
+                logOut();
+                navigate("/");
+              }}
             >
               Log Out
             </a>
