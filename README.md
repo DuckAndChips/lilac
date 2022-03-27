@@ -1,5 +1,7 @@
-# lilac ✨
-Lilac helps you create stunning portfolios with just a few taps. Still under development.
+# lilac ✨ 
+*Stunning portfolios with just a few taps.*
+
+Lilac is a platform for freelancers, new job-seekers etc. to create stunning portfolios easily and quickly without having the hassle to design. The name 'Lilac' comes from the Cantonese pronunciation for '履歷' which translates to 'resume' in English. Still under development.
 - Live Site: https://lilac-27a34.web.app/
 - Demo Portfolio: https://lilac-27a34.web.app/view/dVp52f8Xg6gTLYdxXDkbv84hZVr2
 
