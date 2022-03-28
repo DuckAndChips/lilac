@@ -66,7 +66,21 @@ export function LandingPage({}) {
               </div>
               {/* Credit */}
               <h2 className="text-center">
-                Github | Made by <Link className="text-plum hover:text-black" to={"/view/dVp52f8Xg6gTLYdxXDkbv84hZVr2"}> Jaden Tse </Link>  in 🇭🇰 <a></a>
+                <a
+                  href="https://github.com/DuckAndChips/lilac"
+                  className="text-plum hover:text-black"
+                >
+                  Github
+                </a>{" "}
+                | Made by{" "}
+                <Link
+                  className="text-plum hover:text-black"
+                  to={"/view/dVp52f8Xg6gTLYdxXDkbv84hZVr2"}
+                >
+                  {" "}
+                  Jaden Tse{" "}
+                </Link>{" "}
+                in 🇭🇰 <a></a>
               </h2>
             </div>
 
